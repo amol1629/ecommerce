@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "formik": "^2.2.9",
+    "react-bootstrap": "^2.7.2",
+    "yup": "^1.0.2"
+  }
+}
