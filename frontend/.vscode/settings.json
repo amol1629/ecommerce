@@ -1,0 +1,6 @@
+{
+  "scm.defaultViewMode": "tree",
+  "search.defaultViewMode": "tree",
+  "gitlens.views.commits.files.layout": "tree",
+  "gitlens.views.repositories.files.layout": "tree"
+}

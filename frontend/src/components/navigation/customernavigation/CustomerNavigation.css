@@ -1,0 +1,21 @@
+.search-input {
+  /* width: 500px; */
+}
+
+.cart-icon {
+  background: white;
+  border: 1px solid pink;
+  border-radius: 30%;
+  color: black;
+  font-size: 19px;
+  text-align: center;
+  margin: auto;
+  transition: all 1s;
+}
+
+.cart-icon:hover {
+  border: 1px solid aqua;
+  background-color: rgb(255, 232, 235);
+  color: black;
+  transition: all 1s;
+}

@@ -1,0 +1,17 @@
+.about-us-cards {
+  color: rgb(232, 104, 147);
+}
+
+.about-us-card-item {
+  /* max-width: 280px;
+  max-height: 250px; */
+  transition: 1s ease;
+}
+
+.about-us-card-item:hover {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  transition: 1s ease;
+  border: 1px solid pink;
+}
